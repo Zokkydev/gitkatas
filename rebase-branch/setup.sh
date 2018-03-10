@@ -11,7 +11,7 @@ git add greeting.txt
 git commit -m "Add file greeting.txt"
 echo "hello" > greeting.txt
 git add greeting.txt
-git commit -m "Add content to greeting.txt"
+git commit -m "This is content for greeting.txt"
 # Go to uppercase on a branch
 git checkout -b uppercase
 echo "HELLO" > greeting.txt
